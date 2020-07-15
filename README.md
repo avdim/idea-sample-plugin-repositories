@@ -1,0 +1,1 @@
+# idea-sample-plugin-repositories
