@@ -9,7 +9,7 @@
     url - path to download the plugin JAR/ZIP file. Required. Must be HTTPS
     version - version of this plugin. Required. Must match <version> in plugin.xml
   -->
-  <plugin id="com.github.avdim.ideasampleplugin" url="idea-sample-plugin-0.0.4.zip" version="0.0.4">
+  <plugin id="com.github.avdim.ideasampleplugin" url="idea-sample-plugin-0.0.5.zip" version="0.0.5">
     <idea-version since-build="201.0" until-build="202.*"/>
   </plugin>
 </plugins>
